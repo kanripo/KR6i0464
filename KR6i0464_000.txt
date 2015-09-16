@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說三品弟子經
+#+DATE: 2015-08-30 20:20:17.768886
+#+PROPERTY: JUAN 0
