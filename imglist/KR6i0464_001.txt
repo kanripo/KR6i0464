@@ -1,0 +1,5 @@
+001-0701a03	TKD 14-0069c	buddhist/K-koreana/14-tif/0000-0099/14_0069_C.TIF
+001-0701a22	TKD 14-0070a	buddhist/K-koreana/14-tif/0000-0099/14_0070_A.TIF
+001-0701b13	TKD 14-0070b	buddhist/K-koreana/14-tif/0000-0099/14_0070_B.TIF
+001-0701a00	T 001-0701a	buddhist/T-taisho/T17/07/T17-0701.png
+001-0701b00	T 001-0701b	buddhist/T-taisho/T17/07/T17-0701.png
