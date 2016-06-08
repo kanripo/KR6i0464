@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:18.194829
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:41
 #+TITLE: 佛說三品弟子經
 #+PROPERTY: CBETA_ID T17n0767
 #+PROPERTY: ID KR6i0464
